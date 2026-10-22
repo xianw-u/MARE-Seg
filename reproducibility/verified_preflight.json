@@ -1,0 +1,37 @@
+{
+  "suim": {
+    "parameters": 3718025,
+    "classes": [
+      "BW",
+      "HD",
+      "WR",
+      "RO",
+      "RI",
+      "FV"
+    ],
+    "checkpoint_iteration": 99999,
+    "strict_load": true,
+    "forward_finite": true,
+    "inference_buffers_unchanged": true,
+    "training_step_finite": true,
+    "embedding_gradient": true,
+    "gate_gradient": false
+  },
+  "dut": {
+    "parameters": 3717383,
+    "classes": [
+      "BW",
+      "SC",
+      "SU",
+      "SL",
+      "SF"
+    ],
+    "checkpoint_iteration": 31999,
+    "strict_load": true,
+    "forward_finite": true,
+    "inference_buffers_unchanged": true,
+    "training_step_finite": true,
+    "embedding_gradient": true,
+    "gate_gradient": false
+  }
+}

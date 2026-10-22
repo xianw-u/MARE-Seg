@@ -1,0 +1,13 @@
+# Install torch/torchvision separately for your CUDA version, then run:
+# python -m pip install --no-build-isolation -r requirements.txt
+mmcv==1.7.1
+numpy==1.23.5
+Pillow==10.4.0
+opencv-python==4.10.0.84
+timm==0.4.12
+scipy==1.10.1
+addict==2.4.0
+yapf==0.32.0
+matplotlib==3.7.5
+prettytable==3.11.0
+terminaltables==3.1.10

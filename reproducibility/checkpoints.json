@@ -1,0 +1,16 @@
+[
+  {
+    "dataset": "SUIM",
+    "path": "checkpoints/mare_seg_suim.pth",
+    "size": 14952677,
+    "sha256": "fab27fe67e403ce93e75415b6d56f1f534310f7a87e34e3a6b78a0bd6a6c9ae3",
+    "class_embedding_sha256": "9e417902a3fc8cf49cc669792716b11f9f461f231a3a2bd9bc173954267a4210"
+  },
+  {
+    "dataset": "DUT",
+    "path": "checkpoints/mare_seg_dut.pth",
+    "size": 14959672,
+    "sha256": "a5048f621daa7fda6c0842db2f9ad843742bfb1aba5c322f37d78b7ef887f82d",
+    "class_embedding_sha256": "b72f945b70c969c90036bc22e5a0d6adfa1119d41675060d1497d376c698fcd0"
+  }
+]
